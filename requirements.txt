@@ -1,0 +1,14 @@
+QNET
+sympy
+matplotlib
+numpy
+pandas
+seaborn
+scikit-learn
+trackml
+plotly==4.5.4
+scipy
+xgboost
+lightgbm
+fastai==1.0.47
+nltk
